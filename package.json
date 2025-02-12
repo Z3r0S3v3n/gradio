@@ -86,7 +86,7 @@
 		"typescript": "^5.0.0",
 		"typescript-svelte-plugin": "^0.3.34",
 		"vite": "^4.3.9",
-		"vitest": "^0.34.0",
+		"vitest": "^3.0.5",
 		"wavesurfer.js": "^7.4.2"
 	},
 	"devDependencies": {

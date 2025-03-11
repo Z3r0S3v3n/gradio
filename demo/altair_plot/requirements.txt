@@ -1,2 +1,4 @@
 altair
 vega_datasets
+jinja2>=3.1.6 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.21.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
